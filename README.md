@@ -28,6 +28,14 @@ Implementacion de las estructuras de datos Stack y Queue en Java, usando desde a
 * `isEmpty()`: Verifica si la pila está vacía.
 * `size()`: Retorna el número de elementos en la pila.
 * `delete(n)`: Elimina el primer valor `n` que encuentra en la estructura.
+
+### Para 'MyQueue<T>'
+* `enqueue(T x)`: Inserta un elemento al final.
+* `dequeue()`: Elimina y retorna el primer elemento.
+* `front()`: Retorna el primer elemento sin eliminarlo.
+* `isEmpty()`: Verifica si la cola está vacía.
+* `size()`: Retorna el número de elementos en la cola.
+* `delete(n)`: Elimina el primer valor `n` que encuentra en la estructura.
 **Variables importadas del paquete java.time.*
 
 #### **El sistema debe:**
