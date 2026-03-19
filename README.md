@@ -36,13 +36,10 @@ Implementacion de las estructuras de datos Stack y Queue en Java, usando desde a
 * `isEmpty()`: Verifica si la cola está vacía.
 * `size()`: Retorna el número de elementos en la cola.
 * `delete(n)`: Elimina el primer valor `n` que encuentra en la estructura.
+  
 **Variables importadas del paquete java.time.*
 
-#### **El sistema debe:**
-- Priorización automática: Mantener una fila de espera donde los pacientes con menor nivel de Triage (más graves) siempre estén al principio.
-- Acceso directo: Consultar el estado y datos de un paciente mediante su ID.
-- Atención: Extraer al paciente de mayor prioridad del sistema cuando un médico quede disponible.
-- Estadísticas *(Ad disputandum)*: Listar cuántos pacientes han sido atendidos por cada nivel de severidad.
+
 
 ## Desarrolado por:
 - Diego Alejandro Prieto Badillo - diprietob@unal.edu.co
@@ -58,22 +55,3 @@ Implementacion de las estructuras de datos Stack y Queue en Java, usando desde a
 -  Java
 -  SQL
 -  Git
-
-## Estructura del proyecto:
-```text
-proyecto_ed/
-│
-├── src/
-│   └── main/
-│       └── java/
-│           └── grupo1/
-│               ├── Main.java
-│               ├── modelo/
-│               ├── estructuras/    
-│               └── servicios/
-│
-├── target/
-├── pom.xml
-└── README.md
-```
-
