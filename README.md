@@ -5,21 +5,22 @@ Java
 >
 > Monitor: Daniel Alfonso Cely Infante - dcelyi@unal.edu.co
 
-## Descripción de la tarea:
+### Descripción de la tarea:
+
 1. **Implementar la Estructura List:**
-   Estructura de datos "List" basada en lsitas enlazadas realizando un analisis de complejidad de los metodos asociados como PushFront, PushBack, PopFront, PopBack, Find, Erase, AddBefore, AddAfter, etc.
-   
-3. **Implementacion de Pilas y Colas en Java:**
-   Implementacion de las interfaaces MyStack<T> y MyQueue<T> con las metodos fundamentales.
-   
-5. **Analisis de Complejidad:**
-   Estudio de la eficiencia de cada metodo en las distintas implementaciones.
-   
-7. **Visualizacion y Graficacion de Resultados:**
-   Pruebas experimentales para las operaciones implementadas , ademas de graficacion de los resultados obtenidos.
-   
-9. **Conclusiones del trabajo:**
-   Detalles de las condiciones para determinar que metodo es mejor teniendo en cuenta las diferentes implementaciones de los metodos.
+    Estructura de datos "List" basada en listas enlazadas, realizando un análisis de complejidad de los métodos asociados como `PushFront`, `PushBack`, `PopFront`, `PopBack`, `Find`, `Erase`, `AddBefore`, `AddAfter`, etc.
+
+2. **Implementación de Pilas y Colas en Java:**
+    Implementación de las interfaces `MyStack` y `MyQueue` con los métodos fundamentales.
+
+3. **Análisis de Complejidad:**
+    Estudio de la eficiencia (Big O) de cada método en las distintas implementaciones.
+
+4. **Visualización y Graficación de Resultados:**
+    Pruebas experimentales para las operaciones implementadas, además de graficación de los resultados obtenidos para comparar rendimientos.
+
+5. **Conclusiones del trabajo:**
+    Detalles de las condiciones para determinar qué método es mejor teniendo en cuenta las diferentes implementaciones de los métodos y el uso de recursos.
 
 ### Objetivo:
 Implementacion de las estructuras de datos Stack y Queue en Java, usando desde arreglos dinamicos hasta listas enlazadas, igualmente realizando analisis de complejidad de los metodos asociados
