@@ -21,12 +21,13 @@ Java
 Implementacion de las estructuras de datos Stack y Queue en Java, usando desde arreglos dinamicos hasta listas enlazadas, igualmente realizando analisis de complejidad de los metodos asociados
 
 #### **Metodos usados en cada estructura de datos:**
-- **ID único** ---> long 
-- **Nombre**  del paciente ---> String
-- Nivel de **Triage** ---> Byte
-- **Hora** de **ingreso***  ---> LocalTime
-- **Fecha** de **ingreso*** ---> LocalDate
-
+### Para 'MyStack<T>'
+* `push(T x)`: Inserta un elemento en la cima.
+* `pop()`: Elimina y retorna el elemento en la cima.
+* `peek()`: Retorna el elemento en la cima sin eliminarlo.
+* `isEmpty()`: Verifica si la pila está vacía.
+* `size()`: Retorna el número de elementos en la pila.
+* `delete(n)`: Elimina el primer valor `n` que encuentra en la estructura.
 **Variables importadas del paquete java.time.*
 
 #### **El sistema debe:**
