@@ -20,7 +20,7 @@ Java
 ### Objetivo:
 Implementacion de las estructuras de datos Stack y Queue en Java, usando desde arreglos dinamicos hasta listas enlazadas, igualmente realizando analisis de complejidad de los metodos asociados
 
-#### **Registro único de pacientes:**
+#### **Metodos usados en cada estructura de datos:**
 - **ID único** ---> long 
 - **Nombre**  del paciente ---> String
 - Nivel de **Triage** ---> Byte
