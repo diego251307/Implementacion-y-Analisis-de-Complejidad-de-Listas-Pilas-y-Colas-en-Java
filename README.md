@@ -30,7 +30,7 @@ Java
 ### Objetivo:
 Implementacion de las estructuras de datos Stack y Queue en Java, usando desde arreglos dinamicos hasta listas enlazadas, igualmente realizando analisis de complejidad de los metodos asociados
 
-## **Metodos usados en cada estructura de datos:**
+##*Metodos usados en cada estructura de datos:*
 ### Para 'MyStack<T>'
 * `push(T x)`: Inserta un elemento en la cima.
 * `pop()`: Elimina y retorna el elemento en la cima.
