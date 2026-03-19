@@ -5,7 +5,7 @@ Java
 >
 > Monitor: Daniel Alfonso Cely Infante - dcelyi@unal.edu.co
 
-### Descripción de la tarea:
+## *Descripción de la tarea:*
 
 1. **Implementar la Estructura List:**
 
