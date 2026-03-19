@@ -7,15 +7,15 @@ Java
 
 ## Descripción de la tarea:
 1. Implementar la Estructura List:
-Estructura de datos "List" basada en lsitas enlazadas realizando un analisis de complejidad de los metodos asociados como PushFront, PushBack, PopFront, PopBack, Find, Erase, AddBefore, AddAfter, etc.
+   Estructura de datos "List" basada en lsitas enlazadas realizando un analisis de complejidad de los metodos asociados como PushFront, PushBack, PopFront, PopBack, Find, Erase, AddBefore, AddAfter, etc.
 2. Implementacion de Pilas y Colas en Java:
-Implementacion de las interfaaces MyStack<T> y MyQueue<T> con las metodos fundamentales.
+   Implementacion de las interfaaces MyStack<T> y MyQueue<T> con las metodos fundamentales.
 3. Analisis de Complejidad:
-Estudio de la eficiencia de cada metodo en las distintas implementaciones .
+   Estudio de la eficiencia de cada metodo en las distintas implementaciones .
 4. Visualizacion y Graficacion de Resultados:
-Pruebas experimentales para las operaciones implementadas , ademas de graficacion de los resultados obtenidos.
-5. Conclusiones del trabajo:
-Detalles de las condiciones para determinar que metodo es mejor teniendo en cuenta las diferentes implementaciones de los metodos.
+   Pruebas experimentales para las operaciones implementadas , ademas de graficacion de los resultados obtenidos.
+5.  Conclusiones del trabajo:
+   Detalles de las condiciones para determinar que metodo es mejor teniendo en cuenta las diferentes implementaciones de los metodos.
 
 ### Objetivo:
 Implementacion de las estructuras de datos Stack y Queue en Java, usando desde arreglos dinamicos hasta listas enlazadas, igualmente realizando analisis de complejidad de los metodos asociados
