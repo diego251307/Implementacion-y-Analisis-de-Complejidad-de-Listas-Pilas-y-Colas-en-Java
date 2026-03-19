@@ -8,18 +8,23 @@ Java
 ### Descripción de la tarea:
 
 1. **Implementar la Estructura List:**
+
     Estructura de datos "List" basada en listas enlazadas, realizando un análisis de complejidad de los métodos asociados como `PushFront`, `PushBack`, `PopFront`, `PopBack`, `Find`, `Erase`, `AddBefore`, `AddAfter`, etc.
 
 2. **Implementación de Pilas y Colas en Java:**
+
     Implementación de las interfaces `MyStack` y `MyQueue` con los métodos fundamentales.
 
 3. **Análisis de Complejidad:**
+
     Estudio de la eficiencia (Big O) de cada método en las distintas implementaciones.
 
 4. **Visualización y Graficación de Resultados:**
+
     Pruebas experimentales para las operaciones implementadas, además de graficación de los resultados obtenidos para comparar rendimientos.
 
 5. **Conclusiones del trabajo:**
+
     Detalles de las condiciones para determinar qué método es mejor teniendo en cuenta las diferentes implementaciones de los métodos y el uso de recursos.
 
 ### Objetivo:
