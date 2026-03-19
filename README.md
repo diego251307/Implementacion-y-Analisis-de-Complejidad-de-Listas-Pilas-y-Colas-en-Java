@@ -1,14 +1,17 @@
-# Proyecto Triage/Stage Emergency 2026-1S
+# Implementación y Análisis de Complejidad de Listas , Pilas y Colas en
+Java
 > ## Estructuras de Datos (2016699) - Grupo 2
 > Profesor: David Alberto Herrera Alvarez - dherreraal@unal.edu.co
 >
 > Monitor: Daniel Alfonso Cely Infante - dcelyi@unal.edu.co
 
-## Descripción del proyecto:
-El Triage es un sistema de selección y clasificación de pacientes basado en sus necesidades terapéuticas y los recursos disponibles. A diferencia del orden de llegada, este sistema prioriza la gravedad clínica para asegurar que las emergencias vitales sean atendidas de inmediato.
+## Descripción de la tarea:
+1. sfasfas
+2. adfsafd
+3. adfs
 
 ### Objetivo:
-Diseñar un sistema que gestione el flujo de pacientes en una sala de emergencias, asegurando que la atención se asigne por niveles de urgencia.
+Implementacion de las estructuras de datos Stack y Queue en Java, usando desde arreglos dinamicos hasta listas enlazadas, igualmente realizando analisis de complejidad de los metodos asociados
 
 #### **Registro único de pacientes:**
 - **ID único** ---> long 
