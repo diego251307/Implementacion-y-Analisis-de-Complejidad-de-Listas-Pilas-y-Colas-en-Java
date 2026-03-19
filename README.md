@@ -30,11 +30,17 @@ Java
 ## *Objetivo:*
 Implementacion de las estructuras de datos Stack y Queue en Java, usando desde arreglos dinamicos hasta listas enlazadas, igualmente realizando analisis de complejidad de los metodos asociados
 
-## *Implementacion de la Estructura List*
-
-
-
 ## *Metodos usados en cada estructura de datos:*
+
+### Para 'List'
+* `PushFront`: Inserción de un elemento al inicio de la lista.
+* `PushBack`: Inserción de un elemento al final de la lista.
+* `PopFront`: Eliminación del primer elemento de la lista.
+* `PopBack`: Eliminación del último elemento de la lista.
+* `Find`: Retornando la referencia del elemento en la lista.
+* `Erase`: Eliminación del elemento indicado de la lista.
+* `AddBefore`: Inserción de un elemento antes del elemento indicado en la lista.
+* `AddAfter`: Inserción de un elemento después del elemento indicado en la lista.
 
 ### Para 'MyStack<T>'
 * `push(T x)`: Inserta un elemento en la cima.
