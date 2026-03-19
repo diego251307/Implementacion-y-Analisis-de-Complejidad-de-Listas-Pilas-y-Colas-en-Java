@@ -27,10 +27,15 @@ Java
 
     Detalles de las condiciones para determinar qué método es mejor teniendo en cuenta las diferentes implementaciones de los métodos y el uso de recursos.
 
-### Objetivo:
+## *Objetivo:*
 Implementacion de las estructuras de datos Stack y Queue en Java, usando desde arreglos dinamicos hasta listas enlazadas, igualmente realizando analisis de complejidad de los metodos asociados
 
+## *Implementacion de la Estructura List*
+
+
+
 ## *Metodos usados en cada estructura de datos:*
+
 ### Para 'MyStack<T>'
 * `push(T x)`: Inserta un elemento en la cima.
 * `pop()`: Elimina y retorna el elemento en la cima.
